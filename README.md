@@ -10,7 +10,6 @@ These behaviors are triggered by random numbers in certain situations, following
 You can twiddle the parameters to change its personality.
 
 AliveMachine.ino = the new code, for the alive version.
-
 UselessMachine.ino = the original code, for the dumb machine.
 
 -- PORTUGUÊS
