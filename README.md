@@ -9,7 +9,8 @@ My project is to provide an alternative Arduino code, to improve the machine so 
 These behaviors are triggered by random numbers in certain situations, following bell curve distributions, so they are not simply random dice.
 You can twiddle the parameters to change its personality.
 
-AliveMachine.ino = the new code, for the alive version.\n
+AliveMachine.ino = the new code, for the alive version.
+
 UselessMachine.ino = the original code, for the dumb machine.
 
 -- PORTUGUÊS
