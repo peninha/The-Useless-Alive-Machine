@@ -145,7 +145,7 @@ void Espiar() {
 }
 
 void Ignorar() {
-  //Serial.println("Ignorar");
+  //Serial.println("IGNORAR");
   if ((unsigned long)(millis() - ignorarTime) > ignorarPeriod) {
     vouPressionar();
   }
